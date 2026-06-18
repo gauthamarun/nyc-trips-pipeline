@@ -8,7 +8,7 @@ Orchestrated with Apache Airflow and validated with pytest.
 
 ## Architecture
 
-![Pipeline Architecture](architecture.png)
+![Pipeline Architecture](architecture.svg)
 
 **Ingestion → DuckDB Warehouse → SQL Transforms → KPI Layer**
 
